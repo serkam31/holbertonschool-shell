@@ -116,7 +116,7 @@ bash script_name
 
 ## Auteur
 
-MARQUES Matéo
+Étudiant à Holberton School - MARQUES Matéo
 
 ## Ressources Utiles
 
