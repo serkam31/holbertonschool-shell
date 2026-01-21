@@ -116,7 +116,7 @@ bash script_name
 
 ## Auteur
 
-Projet réalisé dans le cadre de la formation Holberton School.
+MARQUES Matéo
 
 ## Ressources Utiles
 
